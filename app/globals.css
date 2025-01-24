@@ -2,20 +2,42 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--default-font-family, ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji");
+  font-weight: 495;
+  background-color: #000000;
+
+}
+
+/* Custom Glow Effect */
+.glow-effect {
+  text-shadow: 0 0 100px#fffc, 0 0 100px#fff9, 0 0 100px #fff6, 0 0 100px #fff3;
+  animation: textshadowchange 2s ease-in-out infinite alternate;
+}
+
+.paddingfromleft{
+  animation: paddingleft 1s ease-in;
+  animation-fill-mode: forwards;
+}
+
+@keyframes paddingleft {
+  0%{
+    padding-left: 0px;
+  }
+  100%{
+    padding-left: 36px;
+  }
+}
+.paddingfromright{
+  animation: paddingright 1s ease-in;
+  animation-fill-mode: forwards;
+}
+@keyframes paddingright {
+  from{
+    padding-right: 0px;
+  }
+  to{
+    padding-left: 384px;
+  }
 }
