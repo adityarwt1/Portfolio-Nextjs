@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'next/link';
 
 function HeroSection() {
   const phoneNumber = "9244524565"; // Replace with your phone number (no + sign)
@@ -19,9 +20,9 @@ function HeroSection() {
   
       {/* Buttons */}
       <div className="mt-6 flex flex-col md:flex-row md:justify-center items-center space-y-4 md:space-y-0 md:space-x-4">
-        <button className="bg-[rgba(255,255,255,0.3)] p-2 font-semibold rounded-md text-white text-xl border border-white hover:shadow-[0_0_15px_rgba(255,255,255,0.8)] animate-button-glow transition-transform duration-300 ease-in-out  hover:bg-[#007BFF] transform hover:scale-105 w-full md:w-1/3">
+        <Link href="/project" className="bg-[rgba(255,255,255,0.3)] p-2 font-semibold rounded-md text-white text-xl border border-white hover:shadow-[0_0_15px_rgba(255,255,255,0.8)] animate-button-glow transition-transform duration-300 ease-in-out  hover:bg-[#007BFF] transform hover:scale-105 w-full md:w-1/3">
           Project
-        </button>
+        </Link>
         <button className="bg-[rgba(255,255,255,0.3)] p-2 font-semibold rounded-md text-white text-xl border border-white hover:shadow-[0_0_15px_rgba(255,255,255,0.8)] animate-button-glow transition-transform duration-300 ease-in-out hover:bg-[#00D757] transform hover:scale-105 w-full md:w-1/3">
          <a
           href={whatsappLink}
