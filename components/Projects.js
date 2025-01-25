@@ -7,7 +7,7 @@ function Projects() {
       name: "E-commerce Store",
       description:
         "A simple e-commerce store with product listings, shopping cart, and checkout functionality.",
-      image: "/ecommerce.png", // Replace with your image URL
+      image: "ecommerce.png", // Replace with your image URL
       link: "https://github.com/adityarwt1/Ecommerce-website", // Add the project link here
     },
     {
@@ -20,8 +20,8 @@ function Projects() {
     {
       name: "Chat App",
       description: "A chat app that allows users to chat with each other in real-time.",
-      image: "/images/chatapp.jpg", // Replace with your image URL
-      link: "#", // Add the project link here
+      image: "/chatapp.png", // Replace with your image URL
+      link: "https://lnkd.in/dehJCNFe", // Add the project link here
     },
     {
       name: "To-Do List App",
