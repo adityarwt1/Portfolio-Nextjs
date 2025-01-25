@@ -7,8 +7,8 @@ function Projects() {
       name: "E-commerce Store",
       description:
         "A simple e-commerce store with product listings, shopping cart, and checkout functionality.",
-      image: "/images/ecommerce.jpg", // Replace with your image URL
-      link: "#", // Add the project link here
+      image: "/images/ecommerce.png", // Replace with your image URL
+      link: "https://github.com/adityarwt1/Ecommerce-website", // Add the project link here
     },
     {
       name: "Social Media App",
