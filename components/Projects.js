@@ -21,7 +21,7 @@ function Projects() {
       name: "Chat App",
       description: "A chat app that allows users to chat with each other in real-time.",
       image: "/chatapp.png", // Replace with your image URL
-      link: "https://lnkd.in/dehJCNFe", // Add the project link here
+      link: "https://github.com/adityarwt1/chat-apllication", // Add the project link here
     },
     {
       name: "To-Do List App",
