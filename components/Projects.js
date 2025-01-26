@@ -7,21 +7,21 @@ function Projects() {
       name: "E-commerce Store",
       description:
         "A simple e-commerce store with product listings, shopping cart, and checkout functionality.",
-      image: "ecommerce.png", // Replace with your image URL
+      image: "/ecommerce.png", // Replace with your image URL
       link: "https://github.com/adityarwt1/Ecommerce-website", // Add the project link here
     },
     {
       name: "Social Media App",
       description:
         "A basic social media app with features like user profiles, posts, and comments.",
-      image: "/images/socialmedia.jpg", // Replace with your image URL
+      image: "/socialmedia.png", // Replace with your image URL
       link: "#", // Add the project link here
     },
     {
       name: "Chat App",
       description: "A chat app that allows users to chat with each other in real-time.",
       image: "/chatapp.png", // Replace with your image URL
-      link: "https://github.com/adityarwt1/chat-apllication", // Add the project link here
+      link: "https://lnkd.in/dehJCNFe", // Add the project link here
     },
     {
       name: "To-Do List App",
