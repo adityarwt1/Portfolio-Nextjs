@@ -27,8 +27,8 @@ function Projects() {
       name: "To-Do List App",
       description:
         "A to-do list app that allows users to create and manage tasks efficiently.",
-      image: "/images/todolist.jpg", // Replace with your image URL
-      link: "#", // Add the project link here
+      image: "/todolist.png", // Replace with your image URL
+      link: "", // Add the project link here
     },
     {
       name: "Weather App",
