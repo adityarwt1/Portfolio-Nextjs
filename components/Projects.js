@@ -41,7 +41,7 @@ function Projects() {
       name: "Recipe App",
       description:
         "A recipe app that allows users to search for and save their favorite recipes.",
-      image: "/images/recipeapp.jpg", // Replace with your image URL
+      image: "/recipeapp.png", // Replace with your image URL
       link: "#", // Add the project link here
     },
     {
