@@ -34,8 +34,8 @@ function Projects() {
       name: "Weather App",
       description:
         "A weather app that displays the current weather and forecast based on the user's location.",
-      image: "/images/weatherapp.jpg", // Replace with your image URL
-      link: "#", // Add the project link here
+      image: "/weatherapp.png", // Replace with your image URL
+      link: "https://weather-app-next-js-git-master-adityarwt1s-projects.vercel.app/", // Add the project link here
     },
     {
       name: "Recipe App",
