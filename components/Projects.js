@@ -42,7 +42,7 @@ function Projects() {
       description:
         "A recipe app that allows users to search for and save their favorite recipes.",
       image: "/recipeapp.png", // Replace with your image URL
-      link: "#", // Add the project link here
+      link: "https://github.com/adityarwt1/Recipe-Nextjs", // Add the project link here
     },
     {
       name: "Travel Guide App",
