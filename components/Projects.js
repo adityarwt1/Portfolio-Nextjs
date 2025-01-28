@@ -4,6 +4,13 @@ import Image from "next/image";
 function Projects() {
   const projects = [
     {
+      name: "Learning Management System",
+      description:
+        "A platform for managing online courses, students, and instructors.",
+      image: "/lms.png", // Replace with your image URL
+      link: "", // Add the project link here
+    },
+    {
       name: "E-commerce Store",
       description:
         "A simple e-commerce store with product listings, shopping cart, and checkout functionality.",
