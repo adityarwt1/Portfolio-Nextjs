@@ -49,7 +49,7 @@ function Projects() {
       description:
         "A travel guide app that helps users plan their trips by providing travel destinations and itineraries.",
       image: "/travelguide.png", // Replace with your image URL
-      link: "", // Add the project link here
+      link: "https://github.com/adityarwt1/travelguide-nextjs", // Add the project link here
     },
     {
       name: "Fitness Tracker",
