@@ -28,7 +28,7 @@ function Projects() {
       description:
         "A to-do list app that allows users to create and manage tasks efficiently.",
       image: "/todolist.png", // Replace with your image URL
-      link: "", // Add the project link here
+      link: "/project", // Add the project link here
     },
     {
       name: "Weather App",
@@ -48,8 +48,8 @@ function Projects() {
       name: "Travel Guide App",
       description:
         "A travel guide app that helps users plan their trips by providing travel destinations and itineraries.",
-      image: "/images/travelguide.jpg", // Replace with your image URL
-      link: "#", // Add the project link here
+      image: "/travelguide.png", // Replace with your image URL
+      link: "", // Add the project link here
     },
     {
       name: "Fitness Tracker",
