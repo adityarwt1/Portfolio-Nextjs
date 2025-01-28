@@ -8,7 +8,7 @@ function Projects() {
       description:
         "A platform for managing online courses, students, and instructors.",
       image: "/lms.png", // Replace with your image URL
-      link: "", // Add the project link here
+      link: "https://github.com/adityarwt1/LMS-nextjs", // Add the project link here
     },
     {
       name: "E-commerce Store",
