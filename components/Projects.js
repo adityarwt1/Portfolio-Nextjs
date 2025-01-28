@@ -56,7 +56,7 @@ function Projects() {
       description:
         "A fitness tracker that helps users track their workouts, sets goals, and monitor progress.",
       image: "/fitnesstracker.png", // Replace with your image URL
-      link: "#", // Add the project link here
+      link: "https://github.com/adityarwt1/Fitness-dashboard", // Add the project link here
     },
     {
       name: "Survey App",
