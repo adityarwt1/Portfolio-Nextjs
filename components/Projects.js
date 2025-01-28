@@ -55,7 +55,7 @@ function Projects() {
       name: "Fitness Tracker",
       description:
         "A fitness tracker that helps users track their workouts, sets goals, and monitor progress.",
-      image: "/images/fitnesstracker.jpg", // Replace with your image URL
+      image: "/fitnesstracker.png", // Replace with your image URL
       link: "#", // Add the project link here
     },
     {
