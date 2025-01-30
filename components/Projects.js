@@ -4,6 +4,13 @@ import Image from "next/image";
 function Projects() {
   const projects = [
     {
+      name: "Health Care App",
+      description:
+        "A platform to connect patients with doctors, manage appointments, and maintain medical records.",
+      image: "/healthcare.png", // Replace with your image URL
+      link: "", // Add the project link here
+    },
+    {
       name: "Learning Management System",
       description:
         "A platform for managing online courses, students, and instructors.",
