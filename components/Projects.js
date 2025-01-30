@@ -8,7 +8,7 @@ function Projects() {
       description:
         "A platform to connect patients with doctors, manage appointments, and maintain medical records.",
       image: "/healthcare.png", // Replace with your image URL
-      link: "", // Add the project link here
+      link: "https://health-care-app-nextjs.vercel.app/", // Add the project link here
     },
     {
       name: "Learning Management System",
